@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ekiserrepe
-- 👀 I’m interested in XRPL, JS, Python
+- 👀 I’m interested in Xahau, XRPL, JS, Python
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me on Twitter: @ekiserrepe
